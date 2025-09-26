@@ -6,7 +6,7 @@ This guide walks you through connecting GitHub to your local Jenkins using Ngrok
 
 ## Prerequisites
 
-- **Git** (installed)
+- **Git** (installed))
 - **Ngrok** (downloaded & unzipped)
 - **Jenkins** (installed & running)
 - **MySQL** database (with your credentials)
